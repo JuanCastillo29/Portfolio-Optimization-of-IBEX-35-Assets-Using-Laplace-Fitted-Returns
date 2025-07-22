@@ -58,7 +58,10 @@ A more detailed description of the project can be found in [this article](https:
 
 ----
 
+# Disclaimer:
+This project is for educational and illustrative purposes only. It does not constitute financial advice or investment recommendations. All opinions and results are my own and based on historical data and modeling assumptions.
 
+----
 
 \*Project by Juan Castillo\*
 
