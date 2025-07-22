@@ -10,6 +10,8 @@ benchmarked against the **IBEX 35 index**.
 Classical mean-variance portfolios assume normally distributed returns, underestimating extreme risks.
 By optimizing portfolios under a Laplace distribution, we capture heavy tails and achieve better risk-adjusted performance, as demonstrated on IBEX 35 data.
 
+A more detailed description of the project can be found in [this article](https://medium.com/@juan.castillo.sanz/portfolio-optimization-of-ibex-35-assets-using-laplace-fitted-returns-ea35ab0c349b).
+
 ---
 
 ## **Key Features**
@@ -34,7 +36,7 @@ By optimizing portfolios under a Laplace distribution, we capture heavy tails an
 * 'requirements.txt':  Dependencies
 
 
-\## Goals
+## Goals
 
 
 
@@ -44,7 +46,7 @@ By optimizing portfolios under a Laplace distribution, we capture heavy tails an
 
 
 
-\## Getting Started
+## Getting Started
 
 
 
