@@ -12,7 +12,8 @@ By optimizing portfolios under a Laplace distribution, we capture heavy tails an
 
 A more detailed description of the project can be found in [this article](https://medium.com/@juan.castillo.sanz/portfolio-optimization-of-ibex-35-assets-using-laplace-fitted-returns-ea35ab0c349b).
 
-<img width="1006" height="553" alt="image" src="https://github.com/user-attachments/assets/b6cede1b-e387-49f8-ae0f-d2a87b9479cc" />
+<img width="1006" height="553" alt="image" src="https://github.com/user-attachments/assets/5c433f1d-3ea5-4107-9b02-0f6a53d8a70a" />
+
 
 ---
 
